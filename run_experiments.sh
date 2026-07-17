@@ -2,7 +2,7 @@
 
 # =========================== 基础配置 ===========================
 # 项目根目录（包含 project_utils, data, models 等）
-PROJECT_ROOT="/home/tangqingyuan/un0RselfSupervised/video_CMS"
+PROJECT_ROOT="c/video_CMS"
 
 DATASET="teachers"
 EPOCHS=20
